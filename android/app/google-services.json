@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "963593352267",
+    "project_id": "chatlive-5b6ae",
+    "storage_bucket": "chatlive-5b6ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963593352267:android:bce4c2c18c79139df849ce",
+        "android_client_info": {
+          "package_name": "com.example.chatlive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963593352267-5n8l0ah6oapjlbi1a669q7lkjdegu0ia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBpPqgl5W0ureBMO_g1GKvwpnFmD_uMgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963593352267-5n8l0ah6oapjlbi1a669q7lkjdegu0ia.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "963593352267-7j3cok20i0h0nb01apvrfgqgrsrvo00m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatlive"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
